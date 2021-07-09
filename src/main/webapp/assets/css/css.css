@@ -1,0 +1,29 @@
+
+.error{
+    color: red;
+}
+
+.success{
+    color: green;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+}
+.widgets {
+    display: flex;
+    justify-content: space-around;
+}
+
+item{
+    padding: 0 15px;
+    /*margin-bottom: 10px;*/
+}
+
+.navbar{
+    list-style: none;
+}
+ .nav-link{
+     color: black;
+ }

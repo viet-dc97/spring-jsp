@@ -1,0 +1,10 @@
+package edu.poly.shop.controller.admin;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@Controller
+@RequestMapping("/admin/orders-manager")
+public class OrdersManagerController {
+
+}
